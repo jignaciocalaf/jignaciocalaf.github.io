@@ -18,10 +18,10 @@
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://jignaciocalaf.github.io/docs/markdown/</link>
+      <link>https://jignaciocalaf.github.io/docs/markdown-copy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://jignaciocalaf.github.io/docs/markdown/</guid>
+      <guid>https://jignaciocalaf.github.io/docs/markdown-copy/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
@@ -41,6 +41,15 @@
       
       <guid>https://jignaciocalaf.github.io/docs/entrega-1/</guid>
       <description>Dibujo en Rhino de silla vista en clases.</description>
+    </item>
+    
+    <item>
+      <title>Entrega Silla Léviter</title>
+      <link>https://jignaciocalaf.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jignaciocalaf.github.io/docs/markdown/</guid>
+      <description>Exámen Primera Unidad.</description>
     </item>
     
   </channel>
