@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://jignaciocalaf.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Entrega Silla Léviter</title>
+      <link>https://jignaciocalaf.github.io/docs/examenl%C3%A9viter/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jignaciocalaf.github.io/docs/examenl%C3%A9viter/</guid>
+      <description>Exámen Primera Unidad.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://jignaciocalaf.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -17,12 +26,12 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://jignaciocalaf.github.io/docs/markdown-copy/</link>
+      <title>Bit and Bites</title>
+      <link>https://jignaciocalaf.github.io/docs/bitandbites/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://jignaciocalaf.github.io/docs/markdown-copy/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <guid>https://jignaciocalaf.github.io/docs/bitandbites/</guid>
+      <description>Entrevista Chef /Entrega 0</description>
     </item>
     
     <item>
@@ -41,15 +50,6 @@
       
       <guid>https://jignaciocalaf.github.io/docs/entrega-1/</guid>
       <description>Dibujo en Rhino de silla vista en clases.</description>
-    </item>
-    
-    <item>
-      <title>Entrega Silla Léviter</title>
-      <link>https://jignaciocalaf.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://jignaciocalaf.github.io/docs/markdown/</guid>
-      <description>Exámen Primera Unidad.</description>
     </item>
     
   </channel>
