@@ -17,7 +17,6 @@
     </item>
     
     <item>
-<<<<<<< Updated upstream
       <title>Bit and Bites Entrega 2.2</title>
       <link>https://jignaciocalaf.github.io/docs/bb2.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -33,14 +32,6 @@
       
       <guid>https://jignaciocalaf.github.io/docs/bb2.3/</guid>
       <description>Fotos Primer Molde Comida</description>
-=======
-      <title>Ejemplos Markdown</title>
-      <link>https://jignaciocalaf.github.io/docs/markdown-copy/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://jignaciocalaf.github.io/docs/markdown-copy/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
->>>>>>> Stashed changes
     </item>
     
     <item>
@@ -62,21 +53,12 @@
     </item>
     
     <item>
-<<<<<<< Updated upstream
       <title>Exámen Léviter</title>
       <link>https://jignaciocalaf.github.io/docs/examen-l%C3%A9viter/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://jignaciocalaf.github.io/docs/examen-l%C3%A9viter/</guid>
       <description>Primer Examen</description>
-=======
-      <title>Entrega Silla Léviter</title>
-      <link>https://jignaciocalaf.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://jignaciocalaf.github.io/docs/markdown/</guid>
-      <description>Exámen Primera Unidad.</description>
->>>>>>> Stashed changes
     </item>
     
   </channel>
