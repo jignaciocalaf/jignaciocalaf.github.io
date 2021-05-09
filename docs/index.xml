@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://jignaciocalaf.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Entrega Silla Léviter</title>
-      <link>https://jignaciocalaf.github.io/docs/examenl%C3%A9viter/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://jignaciocalaf.github.io/docs/examenl%C3%A9viter/</guid>
-      <description>Exámen Primera Unidad.</description>
-    </item>
-    
-    <item>
       <title>Bites &amp; Bites Entrega 2.1</title>
       <link>https://jignaciocalaf.github.io/docs/bb-2.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -26,30 +17,21 @@
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://jignaciocalaf.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://jignaciocalaf.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Bit and Bites</title>
-      <link>https://jignaciocalaf.github.io/docs/bitandbites/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://jignaciocalaf.github.io/docs/bitandbites/</guid>
-      <description>Entrevista Chef /Entrega 0</description>
-    </item>
-    
-    <item>
       <title>Bit and Bites Entrega 2.2</title>
       <link>https://jignaciocalaf.github.io/docs/bb2.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://jignaciocalaf.github.io/docs/bb2.2/</guid>
       <description>Fotos en moldes en el software Curva Ultimaker</description>
+    </item>
+    
+    <item>
+      <title>Bit and Bites Entrega 2.2</title>
+      <link>https://jignaciocalaf.github.io/docs/bb2.3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jignaciocalaf.github.io/docs/bb2.3/</guid>
+      <description>Fotos Primer Molde Comida</description>
     </item>
     
     <item>
